@@ -33,6 +33,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 6. Create a new Pull Request.
 
 ## Roadmap of Future Improvements
+A feature I would like to implement into this code would be a "rematch" button and also a "new game" button in case players either decide to play another round after one wins and the other loses; or the new game button would serve as an option in case mid game players decide to redo. I would implement this feature by adding a state to track whether a rematch is requested. This would help render the game board based on whether a rematch is requested. I would create a button called "rematch" that will add this functionality.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
